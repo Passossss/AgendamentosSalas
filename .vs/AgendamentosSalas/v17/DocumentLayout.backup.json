@@ -3,72 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\home\\resultadobusca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\home\\resultadobusca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\sistema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\sistema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\models\\eventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:models\\eventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\agendamentos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\agendamentos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\models\\eventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:models\\eventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\home\\resultadobusca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\home\\resultadobusca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\controllers\\tabelascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:controllers\\tabelascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\relatorios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\relatorios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\views\\tabelas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:views\\tabelas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\controllers\\agendamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:controllers\\agendamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|c:\\users\\gustavo passos\\source\\repos\\agendamentossalas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FE7581E9-FB8D-492E-9B66-9EE7E35F5E3C}|AgendamentosSalas.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,45 +38,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 68,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ResultadoBusca.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Home\\ResultadoBusca.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ResultadoBusca.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Home\\ResultadoBusca.cshtml",
-              "RelativeToolTip": "Views\\Home\\ResultadoBusca.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:36:58.155Z",
+              "WhenOpened": "2025-01-31T14:07:22.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EventoController.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\EventoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventoController.cs",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\EventoController.cs",
-              "RelativeToolTip": "Controllers\\EventoController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:33:33.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Agendamentos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Agendamentos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Agendamentos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Agendamentos\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:29:17.581Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T14:06:22.377Z",
               "EditorCaption": ""
             },
             {
@@ -129,178 +80,57 @@
               "RelativeToolTip": "Models\\EventoModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:29:00.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:18:46.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:18:45.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:18:36.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T14:02:11.939Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SistemaController.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\SistemaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SistemaController.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\SistemaController.cs",
+              "RelativeToolTip": "Controllers\\SistemaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:58:41.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Sistema\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sistema\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Sistema\\Index.cshtml",
+              "RelativeToolTip": "Views\\Sistema\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:17:43.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Sobre.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Home\\Sobre.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Sobre.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Home\\Sobre.cshtml",
-              "RelativeToolTip": "Views\\Home\\Sobre.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:17:42.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RelatoriosController.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\RelatoriosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RelatoriosController.cs",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\RelatoriosController.cs",
-              "RelativeToolTip": "Controllers\\RelatoriosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:17:33.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TabelasController.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\TabelasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TabelasController.cs",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\TabelasController.cs",
-              "RelativeToolTip": "Controllers\\TabelasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:17:15.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Relatorios\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Relatorios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Relatorios\\Index.cshtml",
-              "RelativeToolTip": "Views\\Relatorios\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:14:34.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Tabelas\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Tabelas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Tabelas\\Index.cshtml",
-              "RelativeToolTip": "Views\\Tabelas\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:14:07.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AgendamentosController.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\AgendamentosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AgendamentosController.cs",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\AgendamentosController.cs",
-              "RelativeToolTip": "Controllers\\AgendamentosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:12:10.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:03:57.847Z",
+              "WhenOpened": "2025-01-31T13:56:05.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Agendamentos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Agendamentos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Agendamentos\\Index.cshtml",
-              "RelativeToolTip": "Views\\Agendamentos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:03:43.146Z",
-              "EditorCaption": ""
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-31T12:39:52.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ResultadoBusca.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Home\\ResultadoBusca.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ResultadoBusca.cshtml",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\source\\repos\\AgendamentosSalas\\Views\\Home\\ResultadoBusca.cshtml",
+              "RelativeToolTip": "Views\\Home\\ResultadoBusca.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T12:00:30.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T12:36:58.155Z"
             }
           ]
         }

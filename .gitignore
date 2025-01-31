@@ -33,9 +33,11 @@
 *.xproj.user
 *.yproj
 *.yproj.user
+*.json
 
 # Pasta .idea (IntelliJ IDEA)
 .idea/
+.vs
 
 # Pasta bin e obj
 bin/
