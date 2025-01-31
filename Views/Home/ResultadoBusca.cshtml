@@ -1,0 +1,13 @@
+﻿@model EventoModel
+
+<h3>Resultados da Busca</h3>
+
+<p>Evento: @Model.Evento</p>
+<p>Local: @Model.Local</p>
+<p>Sala: @Model.Sala</p>
+<p>Período: @Model.Periodo</p>
+<p>Data Inicial: @Model.DataInicial?.ToString("dd/MM/yyyy")</p>
+<p>Data Final: @Model.DataFinal?.ToString("dd/MM/yyyy")</p>
+
+<!-- Exemplo de exibição dos eventos encontrados -->
+<!-- Aqui você pode iterar pelos eventos retornados da busca e exibi-los -->

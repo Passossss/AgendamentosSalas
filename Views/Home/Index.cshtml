@@ -1,0 +1,49 @@
+﻿@model EventoModel
+
+@{
+    ViewBag.Title = "Eventos Agendados";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Buscar", "Evento", FormMethod.Post))
+{
+    <div class="form-group">
+        <label for="Evento">Evento:</label>
+        @Html.TextBoxFor(m => m.Evento, new { @class = "form-control", placeholder = "Digite o nome do evento" })
+    </div>
+
+    <div class="form-group">
+        <label for="Local">Local:</label>
+        @Html.DropDownListFor(m => m.Local, ViewBag.Locais as SelectList, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label for="Sala">Sala:</label>
+        @Html.DropDownListFor(m => m.Sala, ViewBag.Salas as SelectList, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label for="Periodo">Período:</label>
+        @Html.DropDownListFor(m => m.Periodo, ViewBag.Periodos as SelectList, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label for="DataInicial">Data Inicial:</label>
+        @Html.TextBoxFor(m => m.DataInicial, "{0:dd/MM/yyyy}", new { @class = "form-control", type = "date" })
+    </div>
+
+    <div class="form-group">
+        <label for="DataFinal">Data Final:</label>
+        @Html.TextBoxFor(m => m.DataFinal, "{0:dd/MM/yyyy}", new { @class = "form-control", type = "date" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Buscar</button>
+
+    <a href="@Url.Action("Index", "Evento")" class="btn btn-secondary">Voltar</a>
+
+    <!-- Botão para gerar PDF (simulado) -->
+    <a href="#" class="btn btn-success">
+        <i class="fas fa-file-pdf"></i> PDF
+    </a>
+}

@@ -1,0 +1,57 @@
+# Arquivos e pastas gerados pelo Visual Studio
+.suo
+.user
+*.cache
+*.csproj.user
+*.sln.docstates
+*.vssscc
+*.webinfo
+*.config
+*.compiled
+*.db
+*.mdf
+*.ldf
+*.log
+*.obj
+*.out
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.shd
+*.suo
+*.tlog
+*.tmp
+*.user
+*.vshost.exe
+*.vshost.exe.config
+*.vshost.exe.manifest
+*.vsuser
+*.xproj
+*.xproj.user
+*.yproj
+*.yproj.user
+
+# Pasta .idea (IntelliJ IDEA)
+.idea/
+
+# Pasta bin e obj
+bin/
+obj/
+
+# Dependências de pacotes
+packages/
+
+# Arquivos de configuração específicos do ambiente
+Web.config
+app.config
+
+# Outros arquivos e pastas
+.DS_Store
+*.bak
+*.bak.*
+*.swp
+*~$
+Thumbs.db
